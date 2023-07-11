@@ -58,7 +58,8 @@ ___
 |Paula      |Menegazzo          |936827171|  
 |Jhosealy   |Acosta             |936827171|
 
-![visual studio code logo](yo.jpeg "Grismel Arvelaez")
+![visual studio code logo](yo.png "Grismel Arvelaez")
+
   ![visual studio code logo]() 
 <!--GITHUB MARDK -->
 * [X] Taskn 1
